@@ -1,19 +1,10 @@
-# my_app
+## New Flutter App: ##
+The application generates cool-sounding names, such as "newstay", "lightstream", "mainbrake", or "graypine". The user can ask for the next name, favorite the current one, and review the list of favorited names on a separate page. The app is responsive to different screen sizes. <br>
 
-A new Flutter project.
+My first project in Flutter is based off https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0 <br>
+This is in preparation for SC2006 Software Engineering in Y2S2.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# RandomNameGenerator" 
-"# Flutter-Random-Name-Generator" 
-"# my_app" 
+## Contributors: ##
+Nguyen Tien Dat <br>
+Filip Hracek <br>
+Check out this demo on his youtube channel at https://www.youtube.com/watch?v=8sAyPDLorek&t=656s
